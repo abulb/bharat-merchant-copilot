@@ -1,0 +1,15 @@
+{
+  "merchant_name": "Sharma General Store",
+  "owner_name": "Ramesh Sharma",
+  "city": "Pune, Maharashtra",
+  "business_type": "Kirana / general store",
+  "opening_cash": 25000,
+  "min_cash_buffer": 5000,
+  "daily_operating_cost": 600,
+  "synthetic": true,
+  "seed": 42,
+  "days": 90,
+  "data_end_date": "2026-10-10",
+  "generated_at": "2026-10-10T17:23:16",
+  "note": "SYNTHETIC DEMO DATA - not a real merchant or real payments."
+}

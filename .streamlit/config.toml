@@ -1,0 +1,21 @@
+[theme]
+base = "light"
+primaryColor = "#2a78d6"
+backgroundColor = "#f9f9f7"
+secondaryBackgroundColor = "#f0efec"
+textColor = "#0b0b0b"
+font = "sans serif"
+baseRadius = "medium"
+
+[theme.sidebar]
+backgroundColor = "#0d366b"
+secondaryBackgroundColor = "#184f95"
+textColor = "#f0f4fa"
+primaryColor = "#86b6ef"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+# Skip Streamlit's first-run "Email:" prompt, which otherwise blocks startup
+showEmailPrompt = false

@@ -1,0 +1,7 @@
+streamlit==1.65.0
+pandas==3.0.6
+numpy==2.4.6
+plotly==7.1.0
+python-dotenv==1.2.4
+anthropic==1.13.0
+pytest==9.1.1
